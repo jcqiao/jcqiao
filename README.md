@@ -18,8 +18,7 @@ I'm a passionate Front-End Developer with a knack for building user-friendly and
 - Exploring new front-end technologies and libraries
 
 ### 📫 My online project
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **E-learning project**: [project]([https://linkedin.com/in/your-profile](https://jcqiao.github.io/elearning-platform/))
+- **E-learning project**: [Visit my e-learning platform](https://jcqiao.github.io/elearning-platform/)
 
 Feel free to check out my repositories and projects. I'm always excited about collaborating on new ideas and contributing to innovative projects!
 
