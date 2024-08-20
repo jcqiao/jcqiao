@@ -19,6 +19,7 @@ I'm a passionate Front-End Developer with a knack for building user-friendly and
 
 ### 📫 My online project
 - **E-learning project**: [Visit my e-learning platform](https://jcqiao.github.io/elearning-platform/)
+- **My profile**: [Visit my profile](https://jcqiao.github.io/)
 
 Feel free to check out my repositories and projects. I'm always excited about collaborating on new ideas and contributing to innovative projects!
 
